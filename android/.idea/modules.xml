@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RNBoilerPlate.iml" filepath="$PROJECT_DIR$/.idea/modules/RNBoilerPlate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RNBoilerPlate.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RNBoilerPlate.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-828599274/RNBoilerPlate.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-828599274/RNBoilerPlate.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/520880275/RNBoilerPlate.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/520880275/RNBoilerPlate.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1384680457/RNBoilerPlate.react-native-community_toolbar-android.iml" filepath="$PROJECT_DIR$/.idea/modules/1384680457/RNBoilerPlate.react-native-community_toolbar-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2821212/RNBoilerPlate.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-2821212/RNBoilerPlate.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/239531000/RNBoilerPlate.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/239531000/RNBoilerPlate.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2059816179/RNBoilerPlate.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-2059816179/RNBoilerPlate.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-654700699/RNBoilerPlate.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-654700699/RNBoilerPlate.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/953312946/RNBoilerPlate.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/953312946/RNBoilerPlate.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
